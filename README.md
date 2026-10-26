@@ -1,4 +1,4 @@
-# Multiclassification_Credit_Score_Project (Banking)
+## Bank_customer_multiclassification_Project
 
 Over the years, the company has collected basic bank details and gathered a lot of credit-related and loan information of bank customers. The dataset includes 27 features describing customers information about age, occupation, number of bank accounts, monthly inhand salary, type of loan, EMI per month, credit utilization ratio, credit history age, payment behaviour, monthly balance, etc.
 
