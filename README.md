@@ -6,8 +6,6 @@ The aim is to build an intelligent system to segregate the people into credit sc
 
 The objective of this project is to explore the data to identify the pattern that causes the person to have a good or bad or standard type credit score and build a machine learning model that should be able to predict or classify the credit score type of bank customers. 
 
-Various data cleaning operations are performed. Null entries were replaced by median values obtained after grouping the records of relevant customers.
+Data Preprocessing, feature engineering, EDA, outlier treatment, scaling, encoding is performed before train test split. Performance of various ML algorithms such as decision tree, random forest, Adaboost, Gradient-boost, XGBoost were compared. In the end, the parameters were hypertuned to improve model performance. 
 
-Feature engineering, oulier treatment is performed before train test split. Performance of various ML algorithms such as decision tree, random forest, Adaboost, Gradient-boost, XGBoost were used.
-
-The parameters were hypertuned in the end to improve model performance. By using the model, bank customers in test dataset were classified with 78% accuracy.
+With the help of trained model, bank customers in test dataset were classified with 78% accuracy.
